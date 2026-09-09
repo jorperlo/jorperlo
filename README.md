@@ -1,86 +1,84 @@
-# Hola, soy Jorge! 👋
+# Hi, I'm Jorge! 👋
 
-Bienvenido/a a mi portfolio.
+Welcome to my portfolio.
 
-Aquí encontrarás proyectos personales y de clase que me ayudan a seguir aprendiendo, mejorar como desarrollador y mostrar mi evolución dentro del mundo del desarrollo web.
+Here you'll find personal and academic projects that help me keep learning, improve as a developer, and showcase my evolution in the world of web development.
 
-## 👨‍💻 Estudiante de Desarrollo de Aplicaciones Web
+## 👨‍💻 2nd-year Web Application Development Student (DAW)
 
-Actualmente estoy cursando **Desarrollo de Aplicaciones Web** (**DAW**), en **1er curso**.
+I'm currently in my **second year of Web Application Development (DAW)** , where I'm making the leap from fundamentals to the technologies that drive the professional sector: **Spring Boot, JPA, REST APIs, and server deployment**.
 
-Este es solo el principio de mi camino como desarrollador web. Me gusta descubrir, aprender e investigar los conceptos en profundidad, intentando entender siempre el cómo y el porqué de cada cosa.
+This is the stage where I start building complete web applications from scratch. I keep my philosophy of understanding the "how" and "why" behind every technology, enjoying the process as much as the final result.
 
-Además de mejorar técnicamente, también quiero disfrutar del proceso de aprendizaje y no centrarme únicamente en el resultado final.
+## 🚀 About Me
 
-## 🚀 Sobre mí
+I'm a curious, consistent, and highly collaborative person. I'm passionate about solving real-world problems through code and take a hands-on approach: I prefer building and failing fast over staying purely theoretical.
 
-Soy una persona curiosa, constante y trabajadora, con muchas ganas de aprender y seguir creciendo.
+I thrive when working alongside other developers, sharing knowledge, and taking on challenges that push me out of my comfort zone. I strongly believe that the best way to learn is by teaching and collaborating.
 
-Me motiva crear aplicaciones útiles, resolver problemas y adquirir conocimientos que pueda aplicar tanto en proyectos personales como en entornos reales de desarrollo.
+## 🎯 My Professional Goal
 
-## 🎯 Mi objetivo profesional
+My goal is to establish myself as a **Full-Stack Developer** with a solid backend foundation and strong frontend skills. I want to join a team where I can contribute value from day one, continue learning continuously, and in the long term, work on projects with meaningful social or technological impact.
 
-Mi objetivo profesional es seguir formándome como desarrollador web, mejorar mis habilidades técnicas y construir proyectos que me permitan aprender de forma práctica.
+## 🛠️ Current Tech Stack
 
-Quiero afianzar una buena base como programador, trabajar en proyectos reales, colaborar con otros desarrolladores y seguir evolucionando dentro del sector tecnológico.
-
-## 🛠️ Tecnologías que conozco
-
+**Languages & Frontend:**  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>
+</p>
+
+**Databases & Backend:**  
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
-  <img src="https://img.icons8.com/plasticine/100/oracle-pl-sql--v3.png" width="40" alt="PL/SQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" alt="Oracle"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" alt="Spring Boot"/>
+</p>
+
+**Tools & Development Environments:**  
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" alt="IntelliJ"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"/>
 </p>
 
-## 📚 Tecnologías que me gustaría aprender
+## 📈 2nd-Year Roadmap (and beyond)
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" alt="Angular"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>
-</p>
+My main focus this year is:
 
-## 🧩 Habilidades técnicas actuales
+- **Backend with Spring Boot & JPA/Hibernate**: Building REST APIs, security, session management, and connecting to relational databases.
+- **Modern Frontend**: Moving from vanilla JavaScript to frameworks like **Angular or React**.
+- **Professional Deployment**: Learning to deploy apps to cloud environments (servers, Docker containers, and PaaS like Railway or Render).
+- **Best Practices**: Unit/integration testing, code documentation, and advanced Git workflows (branches, Pull Requests, conflict resolution).
+- **Soft Skills**: Improving my technical English to read official documentation and enhancing my communication skills in development teams.
 
-- **HTML5**: estructura semántica, accesibilidad básica y buenas prácticas.
-- **CSS3**: estilos, layouts responsive y diseño visual.
-- **JavaScript**: lógica básica, manipulación del DOM y primeras funciones.
-- **Java**: programación orientada a objetos, arquitectura por capas y testing unitario/de integración.
-- **Bases de datos**: consultas SQL, MySQL y primeros conocimientos de PL/SQL.
-- **Git & GitHub**: control de versiones, repositorios y flujo básico de trabajo.
-- **Docker**: primeros pasos con contenedores y entornos de desarrollo.
+## 🧩 Skills I Already Master (and keep polishing)
 
-## 📌 Actualmente estoy aprendiendo
+- **HTML5 + CSS3**: Semantic markup, basic accessibility, and responsive layouts (Flexbox / Grid).
+- **JavaScript**: Programming logic, DOM manipulation, asynchronicity (promises, async/await), and consuming APIs with fetch.
+- **Java (OOP)**: Inheritance, polymorphism, interfaces, exception handling, and layered architecture (DAO, Services, Controllers).
+- **SQL Databases**: Schema design, complex queries (joins, subqueries), stored procedures, and triggers in MySQL and Oracle.
+- **Git & GitHub**: Version control, remote repositories, and basic collaboration flows.
+- **Docker**: First steps with containers for isolating development environments.
 
-- Desarrollo web frontend.
-- Bases de datos.
-- Programación orientada a objetos.
-- Buenas prácticas de código.
-- Uso avanzado de Git y GitHub.
-- Creación de proyectos personales para practicar.
+## 📂 Projects
 
-## 📂 Proyectos
+Here I'll add the most representative projects I develop during this course. Each one will have a specific purpose: to master a technology, solve a real problem, or explore a new architecture.
 
-Aquí iré añadiendo algunos de mis proyectos, cada uno con su propósito concreto.
+- Coming soon...
 
-- Próximamente...
+## 📫 Contact
 
-## 📫 Contacto
+You can reach me through:
 
-Puedes contactar conmigo a través de:
-
-- GitHub: [Enlace](https://github.com/Jorge-Perez-Lopez)
-- LinkedIn: [Enlace](https://www.linkedin.com/in/jorge-p%C3%A9rez-l%C3%B3pez-577062413/)
-- Email: perezlopezj07@hotmail.com
+- **GitHub**: [Jorge Pérez](https://github.com/jorperlo)
+- **LinkedIn**: [Jorge Pérez López](https://www.linkedin.com/in/jorge-p%C3%A9rez-l%C3%B3pez-577062413/)
+- **Email**: perezlopezj07@hotmail.com
 
 ---
 
-Gracias por visitar mi perfil. Estoy en proceso de aprendizaje constante y con muchas ganas de seguir creciendo como desarrollador web.
+Thanks for visiting my profile. I'm in the middle of my learning journey and eager to prove what I'm capable of. See you around the code! 🚀
